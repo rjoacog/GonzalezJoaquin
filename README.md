@@ -16,10 +16,9 @@
           JavaScript: ['React', 'React-Native', 'Redux', 'React-Hooks']
         },
         Proyects: {
-          CountriesApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']
+          PokemonApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']
         }
         FutureTecnologies: ['Typescript', 'Python', 'AWS'],
-        Aspirations: ['CyberSecurity', 'CloudComputing', 'MachineLearning']
       }
 ```
       
