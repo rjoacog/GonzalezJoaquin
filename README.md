@@ -24,6 +24,15 @@
       
  &nbsp;
 ## :pushpin: My proyects
+<h3>Pokemon App - [Academic] <h3>
+<p>
+  <a><img width="45%" src="https://github.com/rjoacog/GonzalezJoaquin/blob/main/images/LandingPage.jpeg?raw=true" alt="Landing Page" ></a>
+  <a><img width="45%" src="https://github.com/rjoacog/GonzalezJoaquin/blob/main/images/Home.jpeg?raw=true" alt="Home"></a>
+  <a><img width="45%" src="https://github.com/rjoacog/GonzalezJoaquin/blob/main/images/Home-paginado.jpeg?raw=true" alt="homePaginado"></a>
+  <a><img width="45%" src="https://github.com/rjoacog/GonzalezJoaquin/blob/main/images/Busqueda.jpeg?raw=true" alt="Busqueda"></a>
+  <a><img width="45%" src="https://github.com/rjoacog/GonzalezJoaquin/blob/main/images/Detail.jpeg?raw=true" alt="Detail"></a>
+  <a><img width="45%" src="https://github.com/rjoacog/GonzalezJoaquin/blob/main/images/Formulario.jpeg?raw=true" alt="Formulario"></a>
+</p>
 
 
 ## :paperclip: How to reach me:
